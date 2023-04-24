@@ -1,13 +1,11 @@
-Example Title:           ContAcqVoltSmpls_EveryNSamplesEvent
+Example Title:           ContAcqVoltageSamples_IntClk
 
-Example Filename:        ContAcqVoltSmpls_EveryNSamplesEvent.sln
+Example Filename:        ContAcqVoltageSamples_IntClk.sln
 
 Category:                AI
 
-Description:             This example demonstrates how to use Every N Samples
-                         events to acquire a continuous amount of data using the
-                         DAQ device's internal clock. The Every N Samples events
-                         indicate when data is available from DAQmx.
+Description:             This example demonstrates how to acquire a continuous
+                         amount of data using the DAQ device's internal clock.
 
 Software Group:          Measurement Studio
 
